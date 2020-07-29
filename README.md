@@ -1,1 +1,2 @@
-# google-clone
+# Google Clone
+Este proyecto consiste en diseñador la interfaz de inicio de Google.com, incluyendo logos e iconos necesarios para lucir similar a la original, esto como parte del proyecto del **Curso Practico de HTML y CSS** en **Platzi**
